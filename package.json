@@ -1,0 +1,16 @@
+{
+    "name": "bike-car-help",
+    "version": "1.0.0",
+    "description": "A website to help solve bike and car issues",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {}
+}
